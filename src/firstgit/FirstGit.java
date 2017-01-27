@@ -11,6 +11,8 @@ package firstgit;
  */
 public class FirstGit {
 
+    
+    
     /**
      * @param args the command line arguments
      */
@@ -20,6 +22,12 @@ public class FirstGit {
         System.out.println("Hello Java");
         int x = 6;
         int y = 9;
+        int count=0;
+        
+        for (int i= 0; i<= 4; i++){count++;}
+         System.out.println(count);
+         int z = 0;
+        
     }
     
 }
