@@ -26,8 +26,9 @@ public class FirstGit {
         
         for (int i= 0; i<= 4; i++){count++;}
          System.out.println(count);
+    }
          int z = 0;
         
-    }
+    
     
 }
